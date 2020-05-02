@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/waleed/CLionProjects/DFS_Algorithm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -o CMakeFiles/DFS_Algorithm.dir/main.cpp.o -c /Users/waleed/CLionProjects/DFS_Algorithm/main.cpp",
+  "file": "/Users/waleed/CLionProjects/DFS_Algorithm/main.cpp"
+}
+]
